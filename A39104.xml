@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extraordinary collection of pictures, and other curiosities; will be sold by auction, at Batsons's Coffee-House near Popes-Head Ally, over against the Royal Exchange in Cornhil. The sale begins this present Wednesday the 2d. of December, at four of the clock in the afternoon. and will continue Thursday Friday and Saturday following The conditions of sale. The highest bidder is to be deemed the buyer. The buyers are to give in their names and places of abode, and to pay a third part of the value, if desired, or to be put up again. But, if two or more shall claim any lot, then to be put up again. The buyer is to pay for and take away what pictures, &amp;c. shall be bought, within three days after the sale, and to pay for the porteridge. No person to bid less than six pence at a time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39104</idno>
+            <idno type="STC">Wing E3926</idno>
+            <idno type="STC">ESTC R214623</idno>
+            <idno type="EEBO-CITATION">99826733</idno>
+            <idno type="PROQUEST">99826733</idno>
+            <idno type="VID">31139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1829:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extraordinary collection of pictures, and other curiosities; will be sold by auction, at Batsons's Coffee-House near Popes-Head Ally, over against the Royal Exchange in Cornhil. The sale begins this present Wednesday the 2d. of December, at four of the clock in the afternoon. and will continue Thursday Friday and Saturday following The conditions of sale. The highest bidder is to be deemed the buyer. The buyers are to give in their names and places of abode, and to pay a third part of the value, if desired, or to be put up again. But, if two or more shall claim any lot, then to be put up again. The buyer is to pay for and take away what pictures, &amp;c. shall be bought, within three days after the sale, and to pay for the porteridge. No person to bid less than six pence at a time.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="auction_catalogue">
+            <pb facs="tcp:31139:1" rendition="simple:additions"/>
+            <head>An Extraordinary Collection of <hi>PICTURES,</hi> and other Curioſities; will be ſold by Auction, at <hi>Batſons</hi>'s Coffee-Houſe near <hi>Popes-Head Ally,</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi> The Sale begins this preſent <hi>Wedneſday</hi> the <hi>2d.</hi> of <hi>December,</hi> at Four of the Clock in the Afternoon. and will continue <hi>Thurſday Friday</hi> and <hi>Saturday</hi> following.</head>
+            <div type="conditions_of_sale">
+               <head>The Conditions of SALE.</head>
+               <p>THE higheſt Bidder is to be deemed the Buyer.</p>
+               <p>The Buyers are to give in their Names and Places of Abode, and to pay a Third part of the value, if deſired, or to be put up again.</p>
+               <p>But, if two or more ſhall claim any Lot, then to be put up again.</p>
+               <p>The Buyer is to pay for and take away what Pictures, <hi>&amp;c.</hi> ſhall be bought, within Three Days after the Sale, and to pay for the Porteridge.</p>
+               <p>No Perſon to bid leſs than Six Pence at a Time.</p>
+            </div>
+            <div type="list_of_items">
+               <list>
+                  <item>1 A Deal Board, finely painted</item>
+                  <item>2 A Small oval Landskip</item>
+                  <item>3 A Boy and Girl, in one Lot</item>
+                  <item>4 A Landskip, after <hi>Elſhamar</hi>
+                  </item>
+                  <item>5 A fine Limning</item>
+                  <item>6 A Fruit-peice, by <hi>Fiſher</hi>
+                  </item>
+                  <item>7 <hi>Lewis</hi> the 14th. K. of <hi>France</hi>
+                  </item>
+                  <item>8 ¾ Landskip, by <hi>Soignie</hi>
+                  </item>
+                  <item>9 A ſmall Landskip</item>
+                  <item>10 Star appearing to the Shepherds, by <hi>Baſſan</hi>
+                  </item>
+                  <item>11 A Fruit-peice, finely painted</item>
+                  <item>12 A Moonſhine upon the Water</item>
+                  <item>13 The Holy Family, by <hi>Moratano</hi> the <hi>Italian</hi>
+                  </item>
+                  <item>14 Half length, by <hi>Holben</hi>
+                  </item>
+                  <item>15 A Hare, after <hi>Hondius</hi>
+                  </item>
+                  <item>16 A Landsip, painted by <hi>Roſs</hi>
+                  </item>
+                  <item>17 Death and an Uſurer</item>
+                  <item>18 A large Flower-peice well painted, by a <hi>Dutch</hi> Maſter</item>
+                  <item>19 O. <hi>Cromwel,</hi> by a good Hand</item>
+                  <item>20 Our Saviour diſputing in the Temple</item>
+                  <item>21 <hi>Cleopatra</hi> on Copper, by <hi>Van Heydon</hi>
+                  </item>
+                  <item>22 A Landskip with a Waterfal, by a <hi>Dutch</hi> Mr.</item>
+                  <item>23 A Woman, well done</item>
+                  <item>24 A curious Landskip, by <hi>Bray</hi>
+                  </item>
+                  <item>25 Map of <hi>Rome</hi>
+                  </item>
+                  <item>26 A Night-peice with Figures, very neat</item>
+                  <item>27 A Shepherd, by an <hi>Italian</hi>
+                  </item>
+                  <item>28 The King and Queen</item>
+                  <item>29 A Sea-peice, by <hi>Fiſher</hi>
+                  </item>
+                  <item>30 Hunting, by a good Maſter</item>
+                  <item>31 A Vanity, by <hi>Francois Scrobelo</hi>
+                  </item>
+                  <item>32 A Winter-peice, finely painted</item>
+                  <item>33 Map of the <hi>Boyne</hi>
+                  </item>
+                  <item>34 ½ length, by <hi>Ant. Moor</hi> in an ebony Frame</item>
+                  <item>35 A very fine Sea Storme, by <hi>Sailmaker</hi>
+                  </item>
+                  <item>36 A Sea Coaſt, by <hi>Attoveld</hi>
+                  </item>
+                  <item>37 <hi>Venus</hi> and <hi>Cupid</hi> on Copper, by <hi>Van Heydon</hi>
+                  </item>
+                  <item>38 A naked Woman and Satyrs</item>
+                  <item>39 An original Landskip</item>
+                  <item>40 A Peice of Oyſters, by <hi>Edema</hi>
+                  </item>
+                  <item>41 A Fruit-Peice, by <hi>Fiſher</hi>
+                  </item>
+                  <item>42 A Fruit-peice and ſtill Life finely painted</item>
+                  <item>43 A Woman finely done</item>
+                  <item>44 An <hi>Italian</hi> Tomb</item>
+                  <item>45 A Map of the World</item>
+                  <pb facs="tcp:31139:2"/>
+                  <item>46 <hi>Europa,</hi> by <hi>Lemence</hi>
+                  </item>
+                  <item>47 Landskip, by <hi>Oſtade</hi>
+                  </item>
+                  <item>48 A Landskip with Ruines</item>
+                  <item>49 A Piece with Carp, by <hi>Stannoret</hi>
+                  </item>
+                  <item>50 <hi>Anne</hi> of <hi>Bullen</hi> well done</item>
+                  <item>51 An Original Winter-piece</item>
+                  <item>52 Card-players, by <hi>Hemskirke,</hi> original</item>
+                  <item>53 A Night-piece of <hi>Larue</hi>
+                  </item>
+                  <item>54 A curious Original, by <hi>Holben</hi>
+                  </item>
+                  <item>55 An Original Landskip, by <hi>Vanderſtratten</hi>
+                  </item>
+                  <item>56 King <hi>Charles</hi> the Firſt</item>
+                  <item>57 Fencers curiouſly done</item>
+                  <item>58 A large piece of Plundering well done</item>
+                  <item>59 A Landskip with fine Figures</item>
+                  <item>60 Scourging our Saviour, by an <hi>Italian</hi>
+                  </item>
+                  <item>61 A Fiſh-piece, by a great Maſter</item>
+                  <item>62 Curious piece of Vanity</item>
+                  <item>63 A Landskip of <hi>Bott</hi>
+                  </item>
+                  <item>64 Proſpect of <hi>Antwerp</hi> neatly painted, by <hi>Sailmaker</hi>
+                  </item>
+                  <item>65 Piece of Fruit</item>
+                  <item>66 The Lady <hi>Jane Lane</hi> with King <hi>Charles</hi> meeting <hi>Cromwell</hi>'s Forces, by <hi>Vicke</hi>
+                  </item>
+                  <item>67 K. <hi>William</hi>'s landing at <hi>Carickfergus,</hi> by <hi>Vandervelden</hi>
+                  </item>
+                  <item>68 A Head, after <hi>Renbrant</hi>
+                  </item>
+                  <item>69 A Court of Guard, an Orig. by <hi>Mouldeen,</hi> on Board</item>
+                  <item>70 <hi>Cales,</hi> an Original, by <hi>Sailmaker</hi>
+                  </item>
+                  <item>71 Froſt-piece finely painted</item>
+                  <item>72 <hi>Greenwich</hi> finely painted, by <hi>Sailmaker</hi>
+                  </item>
+                  <item>73 A ſmall piece of a Sea-Haven</item>
+                  <item>74 Half length of Sir <hi>Pet. Lilly</hi>
+                  </item>
+                  <item>75 Proſpect of <hi>Greenwich,</hi> by <hi>Sailmaker</hi>
+                  </item>
+                  <item>76 Country Wedding, in imitation of <hi>Hems<g ref="char:EOLhyphen"/>kirke</hi>
+                  </item>
+                  <item>77 A Paradiſe Bird in a Turbant, by an <hi>Ital.</hi>
+                  </item>
+                  <item>78 A large piece of Maſqueraders</item>
+                  <item>79 St. <hi>Hierom,</hi> by <hi>Caſtro</hi>
+                  </item>
+                  <item>80 A ſilver hilted Rapier (the Silver weigh<g ref="char:EOLhyphen"/>ing 9 ounces)</item>
+                  <item>81 A <hi>Madona</hi> and <hi>M. Magdalen</hi> in one Lot</item>
+                  <item>82 A Hermit, an Original, by old <hi>Hemskirke</hi>
+                  </item>
+                  <item>83 A Hare finely painted</item>
+                  <item>84 Proſpect of <hi>Greenwich</hi> with the King's Ships, by <hi>Caſtro</hi>
+                  </item>
+                  <item>85 A Barrel of Oyſters finely painted</item>
+                  <item>86 An original Landskip</item>
+                  <item>87 A ſilver Chain Watch goes 8 days</item>
+                  <item>88 <hi>Hull</hi> Caſtle, well done</item>
+                  <item>89 <hi>Anna Sophia</hi> Electreſs of <hi>Saxony</hi>
+                  </item>
+                  <item>90 The King and Queen</item>
+                  <item>91 Two ſmall Flower-pieces, by a <hi>Dutch</hi> Mr.</item>
+                  <item>92 General <hi>Monk</hi>'s Head well painted</item>
+                  <item>93 The 5 Senſes original, by <hi>Greenbury</hi>
+                  </item>
+                  <item>94 The taking of <hi>Limerick</hi> in <hi>Oliver</hi>'s time, with Thouſands of Figures by <hi>Meulner</hi>
+                  </item>
+                  <item>95 K. <hi>William</hi> and Q. <hi>Mary</hi> in curious carved Frames</item>
+                  <item>96 King <hi>Charles</hi> the Second</item>
+                  <item>97 A Sea-piece, by <hi>Fiſher</hi>
+                  </item>
+                  <item>98 A Fruit-piece finely painted</item>
+                  <item>99 A Man drinking <hi>ſupernaculum,</hi> by <hi>Caſtro</hi>
+                  </item>
+                  <item>100 Original Landskip, by <hi>Meche</hi>
+                  </item>
+                  <item>101 <hi>Suſannah</hi> with the Elders, deſigned by <hi>Rubens</hi>
+                  </item>
+                  <item>102 A fine original ſtorm by Sea and Land</item>
+                  <item>103 A Man ſmoaking finely painted</item>
+                  <item>104 The King and Queen in oval Frames</item>
+                  <item>105 A Dog hunting Swans, by a <hi>Dutch</hi> Maſt.</item>
+                  <item>106 A Woman by <hi>Vanderelſt</hi>
+                  </item>
+                  <item>107 A Piper and a young Lady</item>
+                  <item>108 The Earl of Leiceſter curiouſly painted by the Life</item>
+                  <item>109 Fruit-piece, by <hi>Fiſher</hi>
+                  </item>
+                  <item>110 <hi>Barbara</hi> Counteſs of <hi>Caſtlemain</hi>
+                  </item>
+                  <item>111 The Prince and Princeſs of <hi>Denmark</hi>
+                  </item>
+                  <item>112 Our Saviour appearing before <hi>Pilate,</hi> a large Piece</item>
+                  <item>113 Wild Fowl, by <hi>Frederick Conzall</hi>
+                  </item>
+                  <item>114 Landskip, by <hi>Vandieſt</hi>
+                  </item>
+                  <item>115 Flowers dreſt on ſtone very fine</item>
+                  <item>116 A Winter-piece original</item>
+                  <item>117 A Fool, by <hi>Bethell</hi>
+                  </item>
+                  <item>118 Landskip, after <hi>Leonard</hi>
+                  </item>
+                  <item>119 Fruit-piece, by <hi>Burguignon</hi>
+                  </item>
+                  <item>120 A Flower-piece, by <hi>Segars</hi>
+                  </item>
+                  <item>121 A Dog, by <hi>Lazulier</hi>
+                  </item>
+                  <item>122 King <hi>William</hi> and Queen <hi>Mary</hi>
+                  </item>
+                  <item>123 An original Winter-piece</item>
+                  <item>124 A large Piece of Merry-making full of Figures</item>
+                  <item>125 King <hi>William</hi> and Queen <hi>Mary,</hi> after <hi>Kneller</hi>
+                  </item>
+                  <item>126 Landskip with Figures finely painted</item>
+                  <item>127 An <hi>Italian</hi> Landskip original</item>
+                  <item>128 Kitchin-piece with Figures, by <hi>Hems<g ref="char:EOLhyphen"/>kirke</hi>
+                  </item>
+                  <item>129 Old Mans Head</item>
+                  <item>130 Small Sea-piece, by <hi>Sailmaker</hi>
+                  </item>
+                  <item>131 Two ſmall Landskips</item>
+                  <item>132 The late Lord Chancellor <hi>Finch</hi> in Crayons</item>
+                  <item>133 A Winter-piece, by <hi>Stoake</hi>
+                  </item>
+                  <item>134 <hi>Dun Scotus</hi>
+                  </item>
+                  <item>135 Original Piece of Horſes, by <hi>Meulner</hi>
+                  </item>
+                  <item>136 Landskip with Ruines, by a <hi>Dutch</hi> Maſter</item>
+                  <item>137 A Fruit-piece, by <hi>Lawrew</hi>
+                  </item>
+                  <item>138 A Fruit-piece, by <hi>Lawrew</hi>
+                  </item>
+                  <item>139 A Man ſmoaking, after <hi>Hemskirke</hi>
+                  </item>
+                  <item>140 Two Heads, by <hi>Hemskirke</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
